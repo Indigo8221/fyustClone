@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Fyust-clone/', // 添加这行，替换为你的仓库名
+  base: '/Fyust-clone/', // 修正为正确的仓库名
   server: {
     port: 5173
   }
