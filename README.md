@@ -15,7 +15,7 @@
 
 项目已配置 GitHub Actions 自动部署到 GitHub Pages。
 
-访问地址：https:/Indigo8221/.github.io/fyust-clone/
+访问地址：https://indigo8221.github.io/fyustClone/
 
 ## 项目结构
 
